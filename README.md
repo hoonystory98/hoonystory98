@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.acmicpc.net/user/hoonystory98
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonystory98)](https://solved.ac/hoonystory98)
+
 <!---
 hoonystory98/hoonystory98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
