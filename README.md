@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.acmicpc.net/user/hoonystory98
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonystory98&show_icons=true&theme=tokyonight)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonystory98)](https://solved.ac/hoonystory98)
 
 <!---
